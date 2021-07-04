@@ -1,5 +1,5 @@
 # Python Estudos
-- Repositório para estudos utilizando Python
+- Repositório para estudos da biblioteteca Logging do Python
 
 ## Ambiente 
 
